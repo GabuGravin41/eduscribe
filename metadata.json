@@ -1,0 +1,6 @@
+{
+  "name": "EduScribe Engineering",
+  "description": "AI-powered pipeline for transcribing engineering papers, extracting LaTeX math, and automatically cropping technical diagrams from PDFs/Images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
